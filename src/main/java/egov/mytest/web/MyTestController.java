@@ -9,7 +9,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import egov.mytest.service.MyTestService;
+import egov.mytest.service.MyTestService; 
 import egov.mytest.service.MyTestVO;
 
 
